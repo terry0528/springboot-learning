@@ -1,0 +1,4 @@
+# ???????=?????????? ctrl+alt+??
+org.springframework.context.ApplicationContextInitializer = com.laomao.study.initializer.MyAppContextInitializer
+
+org.springframework.context.ApplicationListener = com.laomao.study.listener.MyListener
